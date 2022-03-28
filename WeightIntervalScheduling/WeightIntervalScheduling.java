@@ -1,3 +1,10 @@
+/*
+* Writtem be Zhiwei Cao
+* University of Wisconsin - Madison
+* Course: COMP SCI 577
+* Instructor: Dr. Marc Renault
+* Date: Mar 28, 2020
+*/
 import java.util.Arrays;
 import java.util.Comparator;
 import java.util.Scanner;
